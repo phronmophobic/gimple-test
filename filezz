@@ -1,67 +1,16 @@
-commit 753105120f3448d448713283930de3c8c3ce5164
-Author: Adrian Smith <smith.adriane@gmail.com>
-Date:   Sat Feb 11 19:49:26 2012 -0800
-
-    asdf
-
-commit 7e1e042f937a1213560c344df0eb705bac8f072d
-Merge: 43097aa b0c6d93
-Author: Adrian Smith <smith.adriane@gmail.com>
-Date:   Sat Feb 11 19:48:21 2012 -0800
-
-    message
-
-commit 43097aa9d6cafa5081b52a034005852f1e337a41
-Author: Adrian Smith <smith.adriane@gmail.com>
-Date:   Sat Feb 11 19:42:41 2012 -0800
-
-    asdf
-
-commit b0c6d93d367e5b69b04c4fcbdb2575564df0760f
-Author: Adrian Smith <smith.adriane@gmail.com>
-Date:   Sat Feb 11 19:41:07 2012 -0800
-
-    asdf
-
-commit c76545bec4b7fab0d3372a6755c261485035d2e4
-Merge: 0c989ad 1236416
-Author: Adrian Smith <smith.adriane@gmail.com>
-Date:   Sat Feb 11 19:40:01 2012 -0800
-
-    message
-
-commit 0c989ad7b8039659e798ab0eb3bc8711b4cbaf2e
-Author: Adrian Smith <smith.adriane@gmail.com>
-Date:   Sat Feb 11 19:24:55 2012 -0800
-
-    conflict change 2
-
-commit 123641670fc19ff558468eb600abe3c4a18b2c3a
-Author: Adrian Smith <smith.adriane@gmail.com>
-Date:   Sat Feb 11 19:24:21 2012 -0800
-
-    change for a conflict.
-
-commit ea47d0291e10650db7b366995f9deda2f131925f
-Author: Adrian Smith <smith.adriane@gmail.com>
-Date:   Sat Feb 11 18:59:04 2012 -0800
-
-    message
-
-commit 54450bd3b4c6eb4d47f9c1e949f3f139766376cd
-Author: Adrian Smith <smith.adriane@gmail.com>
-Date:   Sat Feb 11 18:54:12 2012 -0800
-
-    message
-
-commit bc8ba5af3adc471790d62f505cdd4c0922a66b06
-Author: Adrian Smith <smith.adriane@gmail.com>
-Date:   Sat Feb 11 18:25:07 2012 -0800
-
-    message
-
-commit e87a3e2e4cfa1cb332fcc6490d6f2245d3369de5
-Author: Adrian Smith <smith.adriane@gmail.com>
-Date:   Sat Feb 11 18:15:54 2012 -0800
-
-    first commit
+kdkkdkdkd<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> b0c6d93d367e5b69b04c4fcbdb2575564df0760f
+bbbbbbbbasdfasdf
+aaaaasdfasdf
+<<<<<<< HEAD
+=======
+>>>>>>> 123641670fc19ff558468eb600abe3c4a18b2c3a
+=======
+lakjsdfaaaaasdfasdf
+>>>>>>> asdf
+>>>>>>> b0c6d93d367e5b69b04c4fcbdb2575564df0760f
+asdfds
+klasdf
