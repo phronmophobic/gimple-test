@@ -8,5 +8,5 @@ cd ../../gimple-test
 echo fdjkfdjk > filezz
 git add -u
 git commit -m "conflictzzz"
-git pull
+# git pull
 
