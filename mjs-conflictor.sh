@@ -1,8 +1,8 @@
 cd ../gimple-test-copy/gimple-test
+git pull
 echo flabba > filezz
 git add -u
 git commit -m "makin conflicts"
-git pull
 git push
 cd ../../gimple-test
 echo fdjkfdjk > filezz
