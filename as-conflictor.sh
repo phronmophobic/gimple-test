@@ -8,5 +8,5 @@ cd ../gimple-test2
 echo fdjkfdjk > README
 git add -u
 git commit -m "conflictzzz"
-git pull
+
 
