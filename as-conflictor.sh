@@ -1,3 +1,5 @@
+set -x
+
 cd ../gimple-test2
 git pull
 echo flabba > README
